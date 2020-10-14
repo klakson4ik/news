@@ -14,6 +14,7 @@ define('CONTROLLERS', '/Controllers');
 define('MODELS', '/Models');
 define('VIEWS',  '/Views');
 		  
+define('PARTIALS', VIEWS . '/partials');
 define('PAGES', VIEWS . '/Pages');
 define('LAYOUTS', VIEWS . '/Layouts');
 

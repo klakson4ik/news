@@ -9,7 +9,7 @@ use vendor\core\base\Controller;
       protected static $routes = [];
       public static $route = [];
 
-		private const MAIN_CONTROLLER = 'Main';
+		private const HOME_CONTROLLER = 'Home';
 		private const USER_CONTROLLER = 'App\\Web\\User\\Controllers\\';
 		private const ADMIN_CONTROLLER = 'App\\Web\\Admin\\Controllers\\';
 
@@ -33,7 +33,7 @@ use vendor\core\base\Controller;
 					$array = explode('/', substr($matches[0], 1), 4);
 					if(empty($array[0])){
 						self::$route = ['prefix' => 'user',
-										 	 'controller' => self::MAIN_CONTROLLER,
+										 	 'controller' => self::HOME_CONTROLLER,
 								 		    'action' => 'index'];
 					}
 					elseif($array[0] == 'admin'){

@@ -1,9 +1,9 @@
 <?php
 
-define('DB_HOST', '');
-define('DB_LOGIN', '');
-define('DB_PASSWORD', '');
-define('DB_NAME', '');
+define('DB_HOST', 'docker_mariadb_1');
+define('DB_LOGIN', 'maks');
+define('DB_PASSWORD', '1');
+define('DB_NAME', 'news');
 define('CHARSET', 'utf8');
 
 const DB_DSN = "mysql:host=" . DB_HOST . ";dbname=" . DB_NAME . ";charset=" . CHARSET;
