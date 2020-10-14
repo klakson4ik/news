@@ -1,6 +1,6 @@
 <?php 
 
-namespace App\Web\User\Models\Main;
+namespace App\Web\User\Models\Home;
 
 use App\Web\User\Models\AppModel;
 use vendor\core\libs\DB;

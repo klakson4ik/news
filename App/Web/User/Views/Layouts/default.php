@@ -11,6 +11,7 @@
 <body>
 
 	<header>
+		<?php require_once USER . PARTIALS . '/default/header.php' ;?>	
 	</header>
 
 	<div class="content">
@@ -18,6 +19,7 @@
 	</div>
 
 	<footer>
+		<?php require_once USER . PARTIALS . '/default/footer.php' ;?>	
 	</footer>
 
 </body>

@@ -8,6 +8,6 @@ class HomeModel extends AppModel
 {
 	public static function getData()
 	{
-		$data = DBModel::getDataDB()	
+		$data = DBModel::getDataDB();	
 	}
 }
