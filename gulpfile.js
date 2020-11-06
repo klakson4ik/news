@@ -25,7 +25,14 @@ let path = {
 
 function css(){	
 	return src(path.import.css)
-		.pipe(importCss(path.src.css))
+		.pipe(importCss())
+		.pipe(rename({
+			basename: "app",
+			extname: ".css",
+
+		}))  
+		.pipe(dest('resources/css/'))
+		.pipe(src(path.src.css))  
 		.pipe(autoprefixer({    
 			Browserslist: ['last 8 versions'],
          cascade: true

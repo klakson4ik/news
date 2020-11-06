@@ -1,22 +1,22 @@
 /*Other things*/
-@import 'styles/styles.css';
+@import url('styles/styles.css');
 
 /*Views*/
 
 	/*Layouts*/
 		
 		/*defualt*/
-@import 'App/Web/User/Views/Layouts/default/defualt.css';
+@import url('../../App/Web/User/Views/Layouts/default/default.css');
 
 	/*Partials*/
 
 		/*default*/
 			
 			/*header*/
-@import 'App/Web/User/Views/Partials/default/header/header.css';
+@import url('../../App/Web/User/Views/Partials/default/header/header.css');
 
 			/*footer*/
-@import 'App/Web/User/Views/Partials/default/footer/footer.css';
+@import url('../../App/Web/User/Views/Partials/default/footer/footer.css');
 
 	/*Pages*/
 
