@@ -13,12 +13,12 @@ class NewElement
 	public static function new($name, $nameAction = 'index'){
 		self::$name = ucfirst($name);
 		self::$nameAction = lcfirst($nameAction);
-#		self::createController();
-#		self::createModels();
-#		self::createView();
-#		self::createCSS();
-		self::createJS();
-		sefl::createRoute();
+		self::createController();
+		self::createModels();
+		self::createView();
+		self::createCSS();
+#		self::createJS();
+		self::createRoute();
 	}
 	
 	private static function createController(){
@@ -116,25 +116,22 @@ class NewElement
 	}
 
 	private static function createCSS(){
-		$name = lcfirst(self::$name);
-		$CSSPath = CSS_STYLE . $name;
-		if(Filer::createDir($CSSPath)){
-			$fileName = $name . '.css';
-			$fullName = CSS_STYLE . $fileName;
-			$text = '#' . $name . '{' . PHP_EOL;
-			$text .= '	' . PHP_EOL;
-			$text .= '}' . PHP_EOL;
-			$text .= '' . PHP_EOL;
+		$fileName = self::$nameAction . '.css';
+		$fullName = USER . PAGES . '/' . self::$name . '/' . $fileName;
+		$text = '#' . lcfirst(self::$name) . '{' . PHP_EOL;
+		$text .= '' . PHP_EOL;
+		$text .= '}' . PHP_EOL;
+		$text .= '' . PHP_EOL;
 
-			Filer::createFile($fullName, $text);
+		Filer::createFile($fullName, $text);
 
-			$style = CSS . 'style.css';
-			$text = '' . PHP_EOL;
-			$text .= '# ' . $name . ' style' . PHP_EOL; 
-			$text .= '@import url("' . $name . '/'  . $name . '.css");' . PHP_EOL; 
+		$importFile = CSS . '/' . 'import.css';
+		$text = '' . PHP_EOL;
+		$text .= '		/* ' . self::$nameAction . ' style */' . PHP_EOL; 
+		$text .= '@import url("../../App/Web/User/Views/Pages/' . self::$name . '/' . lcfirst(self::$nameAction) . '.css");' . PHP_EOL; 
 
-			Filer::fileAppend($style, $text);
-		}
+		Filer::fileAppend($importFile, $text);
+
 	}
 
 	private static function createJS(){
@@ -154,9 +151,9 @@ class NewElement
 	}
 
 	private static function createRoute(){
-		$fullName = CONFIG . 'route.php';
-		$text .= '' . PHP_EOL;
-		$text = 'Router::user("/' . lcfirst($name) . '/' . $nameAction . ', "' . lcfirst($name) . '.' . $nameAction . '");';
+		$fullName = ROUTES . '/' . 'user.php';
+		$text = '' . PHP_EOL;
+		$text .= 'Router::user("/' . lcfirst(self::$name) . '/' . self::$nameAction . '", "' . lcfirst(self::$name) . '.' . self::$nameAction . '");';
 
 		Filer::fileAppend($fullName, $text);
 	}

@@ -1,5 +1,10 @@
 /*Other things*/
+
+/*styles*/
 @import url('styles/styles.css');
+
+/*libs*/
+@import url('libs/libs.css');
 
 /*Views*/
 
@@ -20,3 +25,7 @@
 
 	/*Pages*/
 
+		/* Currresources style */
+@import url("../../App/Web/User/Views/Pages/Curr/index.css");
+@import url("../../App/Web/User/Views/Pages/Curr/create.css");
+@import url("../../App/Web/User/Views/Pages/Curr/edit.css");

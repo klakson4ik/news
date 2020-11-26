@@ -14,7 +14,6 @@ class FrameRoute
 			AutoLoadClasses::load();
 
 			PHPSettings::set();
-			Timer::start();
 
          require HELPERS . '/Functions.php';
 			require ROUTES . '/user.php';
@@ -23,8 +22,8 @@ class FrameRoute
 			
          new ErrorHandler();
 			Router::dispatch($uri);
-
-			echo Timer::finish() . ' сек.';
+			if(TIMER == true)
+				echo Timer::finish() . ' сек.';
       }
 }
 
