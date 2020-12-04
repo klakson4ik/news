@@ -247,3 +247,1614 @@
 [2020-11-26 13:46:18] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
       файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
 ==================
+[2020-11-27 14:18:24] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-11-27 14:18:26] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-11-27 14:18:41] Текст ошибки: Введенный адрес /rubric/css/app.min.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-11-27 15:06:39] Текст ошибки: Call to undefined function App\Web\User\Controllers\RubricController() |
+      файл: /var/www/App/Web/User/Views/Pages/Rubric/index.php | Строка: 2 
+==================
+[2020-11-27 15:06:39] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-11-27 15:06:52] Текст ошибки: Undefined constant 'App\Web\User\Controllers\RubricController' |
+      файл: /var/www/App/Web/User/Views/Pages/Rubric/index.php | Строка: 2 
+==================
+[2020-11-27 15:06:52] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-11-27 15:07:26] Текст ошибки: Using $this when not in object context |
+      файл: /var/www/App/Web/User/Controllers/RubricController.php | Строка: 13 
+==================
+[2020-11-27 15:07:26] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-11-30 15:46:47] Текст ошибки: Using $this when not in object context |
+      файл: /var/www/App/Web/User/Controllers/RubricController.php | Строка: 13 
+==================
+[2020-11-30 15:46:47] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-11-30 15:46:47] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-11-30 15:49:00] Текст ошибки: Using $this when not in object context |
+      файл: /var/www/App/Web/User/Controllers/RubricController.php | Строка: 13 
+==================
+[2020-11-30 15:49:00] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-11-30 15:49:01] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 13:53:04] Текст ошибки: Using $this when not in object context |
+      файл: /var/www/App/Web/User/Controllers/RubricController.php | Строка: 13 
+==================
+[2020-12-01 13:53:04] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 13:53:04] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:01:40] Текст ошибки: syntax error, unexpected '->' (T_OBJECT_OPERATOR) |
+      файл: /var/www/App/Web/User/Views/Pages/Rubric/index.php | Строка: 2 
+==================
+[2020-12-01 14:01:40] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:01:40] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:02:06] Текст ошибки: Too few arguments to function App\Web\User\Controllers\AppController::__construct(), 0 passed in /var/www/App/Web/User/Views/Pages/Rubric/index.php on line 2 and exactly 1 expected |
+      файл: /var/www/App/Web/User/Controllers/AppController.php | Строка: 10 
+==================
+[2020-12-01 14:02:06] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:02:06] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:22] Текст ошибки: Too few arguments to function App\Web\User\Controllers\AppController::__construct(), 0 passed in /var/www/App/Web/User/Views/Pages/Rubric/index.php on line 2 and exactly 1 expected |
+      файл: /var/www/App/Web/User/Controllers/AppController.php | Строка: 10 
+==================
+[2020-12-01 14:04:22] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:22] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:22] Текст ошибки: Too few arguments to function App\Web\User\Controllers\AppController::__construct(), 0 passed in /var/www/App/Web/User/Views/Pages/Rubric/index.php on line 2 and exactly 1 expected |
+      файл: /var/www/App/Web/User/Controllers/AppController.php | Строка: 10 
+==================
+[2020-12-01 14:04:22] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:22] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:22] Текст ошибки: Too few arguments to function App\Web\User\Controllers\AppController::__construct(), 0 passed in /var/www/App/Web/User/Views/Pages/Rubric/index.php on line 2 and exactly 1 expected |
+      файл: /var/www/App/Web/User/Controllers/AppController.php | Строка: 10 
+==================
+[2020-12-01 14:04:22] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:22] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:22] Текст ошибки: Too few arguments to function App\Web\User\Controllers\AppController::__construct(), 0 passed in /var/www/App/Web/User/Views/Pages/Rubric/index.php on line 2 and exactly 1 expected |
+      файл: /var/www/App/Web/User/Controllers/AppController.php | Строка: 10 
+==================
+[2020-12-01 14:04:23] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:23] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:27] Текст ошибки: Too few arguments to function App\Web\User\Controllers\AppController::__construct(), 0 passed in /var/www/App/Web/User/Views/Pages/Rubric/index.php on line 2 and exactly 1 expected |
+      файл: /var/www/App/Web/User/Controllers/AppController.php | Строка: 10 
+==================
+[2020-12-01 14:04:27] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:27] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:27] Текст ошибки: Too few arguments to function App\Web\User\Controllers\AppController::__construct(), 0 passed in /var/www/App/Web/User/Views/Pages/Rubric/index.php on line 2 and exactly 1 expected |
+      файл: /var/www/App/Web/User/Controllers/AppController.php | Строка: 10 
+==================
+[2020-12-01 14:04:27] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:27] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:28] Текст ошибки: Too few arguments to function App\Web\User\Controllers\AppController::__construct(), 0 passed in /var/www/App/Web/User/Views/Pages/Rubric/index.php on line 2 and exactly 1 expected |
+      файл: /var/www/App/Web/User/Controllers/AppController.php | Строка: 10 
+==================
+[2020-12-01 14:04:28] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:28] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:28] Текст ошибки: Too few arguments to function App\Web\User\Controllers\AppController::__construct(), 0 passed in /var/www/App/Web/User/Views/Pages/Rubric/index.php on line 2 and exactly 1 expected |
+      файл: /var/www/App/Web/User/Controllers/AppController.php | Строка: 10 
+==================
+[2020-12-01 14:04:28] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:28] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:28] Текст ошибки: Too few arguments to function App\Web\User\Controllers\AppController::__construct(), 0 passed in /var/www/App/Web/User/Views/Pages/Rubric/index.php on line 2 and exactly 1 expected |
+      файл: /var/www/App/Web/User/Controllers/AppController.php | Строка: 10 
+==================
+[2020-12-01 14:04:28] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:04:28] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:31:31] Текст ошибки: Too few arguments to function App\Web\User\Controllers\AppController::__construct(), 0 passed in /var/www/App/Web/User/Views/Pages/Rubric/index.php on line 2 and exactly 1 expected |
+      файл: /var/www/App/Web/User/Controllers/AppController.php | Строка: 10 
+==================
+[2020-12-01 14:31:31] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:31:31] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:33:18] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:33:30] Текст ошибки: Введенный адрес /rubric/css/app.min.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:38:18] Текст ошибки: syntax error, unexpected '->' (T_OBJECT_OPERATOR) |
+      файл: /var/www/App/Web/User/Views/Pages/Rubric/index.php | Строка: 2 
+==================
+[2020-12-01 14:38:18] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:38:18] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:38:18] Текст ошибки: syntax error, unexpected '->' (T_OBJECT_OPERATOR) |
+      файл: /var/www/App/Web/User/Views/Pages/Rubric/index.php | Строка: 2 
+==================
+[2020-12-01 14:38:18] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:38:18] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:38:29] Текст ошибки: syntax error, unexpected '->' (T_OBJECT_OPERATOR) |
+      файл: /var/www/App/Web/User/Views/Pages/Rubric/index.php | Строка: 2 
+==================
+[2020-12-01 14:38:29] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:38:29] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:38:41] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:40:34] Текст ошибки: syntax error, unexpected '__construct' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) |
+      файл: /var/www/App/Web/User/Controllers/RubricController.php | Строка: 11 
+==================
+[2020-12-01 14:40:34] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:42:34] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:49:05] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:49:05] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:49:05] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:49:35] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:54:18] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:55:10] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:57:27] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:57:27] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:57:27] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 14:57:28] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:00:56] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:05:41] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:05:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:05:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:05:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:05:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:05:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:05:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:05:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:05:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:08] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:35] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:35] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:35] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:35] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:36] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:36] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:36] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:36] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:36] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:36] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:37] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:37] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:37] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:37] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:37] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:37] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:38] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:38] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:38] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:38] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:38] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:38] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:39] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:39] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:39] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:39] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:39] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:40] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:40] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:40] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:40] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:40] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:40] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:41] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:41] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:41] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:41] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:41] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:53] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:54] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:06:54] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:07:19] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:08:58] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:31:25] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:31:25] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:31:28] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:31:28] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:31:29] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:32:18] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:32:19] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:32:23] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:32:28] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:34:57] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:34:57] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:34:57] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:34:57] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:34:57] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:34:57] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:35:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:35:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:35:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:35:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:35:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:35:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:36:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:36:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:36:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:36:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:36:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:36:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:36:38] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:36:38] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:36:38] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:36:38] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:36:39] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:36:39] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:37:53] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:38:00] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:38:00] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:41:41] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:41:41] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:41:41] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:41:41] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:41:41] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:41:41] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:41:42] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:41:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:41:42] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:41:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:41:42] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:41:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:41:42] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:41:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:41:42] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:41:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:41:42] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:41:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:41:52] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:42:36] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:42:36] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:42:44] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:42:44] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:42:44] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:43:08] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:43:08] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:43:08] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:45:08] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:45:08] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:45:08] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:46:08] Текст ошибки: Введенный адрес /rubric/index не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:46:08] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:46:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:46:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:46:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:46:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:46:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:46:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:46:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:46:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:46:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:46:44] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 15:47:15] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:47:16] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:47:16] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:53:11] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:53:11] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:53:19] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 15:53:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.rubrics' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:15:01] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:15:02] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:15:31] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:15:31] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:15:31] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:15:31] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:27:24] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:27:24] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:27:24] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:27:25] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:27:25] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:27:52] Текст ошибки: Class 'vendor\core\libs\PDO' not found |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 13 
+==================
+[2020-12-01 16:27:52] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 16:34:44] Текст ошибки: Class 'vendor\core\libs\PDO' not found |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 12 
+==================
+[2020-12-01 16:34:44] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 16:34:44] Текст ошибки: Class 'vendor\core\libs\PDO' not found |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 12 
+==================
+[2020-12-01 16:34:44] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 16:34:45] Текст ошибки: Class 'vendor\core\libs\PDO' not found |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 12 
+==================
+[2020-12-01 16:34:45] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 16:34:45] Текст ошибки: Class 'vendor\core\libs\PDO' not found |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 12 
+==================
+[2020-12-01 16:34:45] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 16:34:45] Текст ошибки: Class 'vendor\core\libs\PDO' not found |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 12 
+==================
+[2020-12-01 16:34:45] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-01 16:35:03] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-01 16:35:04] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-01 16:35:04] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-01 16:35:04] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-01 16:35:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-01 16:35:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-01 16:35:22] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-01 16:35:57] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:35:57] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:35:58] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:35:58] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:36:45] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:36:45] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:36:45] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-01 16:36:45] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:04:16] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:04:17] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:04:17] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:07:17] Текст ошибки: Class 'vendor\core\libs\PDO' not found |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 12 
+==================
+[2020-12-02 13:07:17] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:07:18] Текст ошибки: Class 'vendor\core\libs\PDO' not found |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 12 
+==================
+[2020-12-02 13:07:18] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:07:32] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:07:59] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.ategories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:11:59] Текст ошибки: Class 'vendor\core\libs\PDO' not found |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 13 
+==================
+[2020-12-02 13:11:59] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:12:00] Текст ошибки: Class 'vendor\core\libs\PDO' not found |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 13 
+==================
+[2020-12-02 13:12:00] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:12:10] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:12:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:14:57] Текст ошибки: syntax error, unexpected 'echo' (T_ECHO) |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 17 
+==================
+[2020-12-02 13:14:57] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:15:11] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:15:11] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:15:57] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:15:57] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:17:35] Текст ошибки: syntax error, unexpected '$stmt' (T_VARIABLE) |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:17:35] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:17:36] Текст ошибки: syntax error, unexpected '$stmt' (T_VARIABLE) |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:17:36] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:17:45] Текст ошибки: Call to a member function getAttribute() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:17:45] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:18:08] Текст ошибки: Call to a member function getAttribute() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:18:08] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:18:09] Текст ошибки: Call to a member function getAttribute() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:18:09] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:18:09] Текст ошибки: Call to a member function getAttribute() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:18:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:18:10] Текст ошибки: Call to a member function getAttribute() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:18:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:18:10] Текст ошибки: Call to a member function getAttribute() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:18:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:03] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:03] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:13] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:14] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:31] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:31] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:31] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:31] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:31] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:31] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:32] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:32] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:32] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:32] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:32] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:32] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:32] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:32] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:32] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:49] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:49] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:49] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:49] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:49] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:49] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:49] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:49] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:49] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:50] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:50] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:50] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:50] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:50] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:50] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:50] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:50] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:50] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:50] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:26:50] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:26:50] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:09] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:10] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:11] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:11] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:11] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:11] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:11] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:11] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:13] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:13] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:14] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:14] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:23] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:23] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:23] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:23] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:23] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:23] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:24] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:24] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:24] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:24] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:24] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:24] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:24] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:24] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:24] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:24] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:25] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:25] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:25] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:25] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:25] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:25] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:25] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:25] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:27:28] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:27:28] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:28:26] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:28:26] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:30:09] Текст ошибки: Call to a member function execute() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:30:09] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:30:10] Текст ошибки: Call to a member function execute() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:30:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:30:41] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:30:42] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:31:57] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:31:57] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:31:57] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:31:57] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:31:57] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:31:57] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:31:57] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:31:57] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:34:42] Текст ошибки: Class 'vendor\core\libs\PDO' not found |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 12 
+==================
+[2020-12-02 13:34:42] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:34:43] Текст ошибки: Class 'vendor\core\libs\PDO' not found |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 12 
+==================
+[2020-12-02 13:34:43] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:34:44] Текст ошибки: Class 'vendor\core\libs\PDO' not found |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 12 
+==================
+[2020-12-02 13:34:44] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:35:03] Текст ошибки: SQLSTATE[HY000] [1045] Access denied for user 'DB_LOIN'@'172.20.0.2' (using password: YES) |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 12 
+==================
+[2020-12-02 13:35:03] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:35:04] Текст ошибки: SQLSTATE[HY000] [1045] Access denied for user 'DB_LOIN'@'172.20.0.2' (using password: YES) |
+      файл: /var/www/vendor/core/libs/DB.php | Строка: 12 
+==================
+[2020-12-02 13:35:04] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:35:34] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:35:34] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:38:47] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:38:47] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:38:47] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:38:47] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:38:47] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:38:47] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:38:47] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:38:47] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:38:47] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:38:47] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:38:47] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:38:47] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:38:55] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 14 
+==================
+[2020-12-02 13:38:55] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:03] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:03] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:03] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:03] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:04] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:04] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:04] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:04] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:04] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:04] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:04] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:04] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:05] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:05] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:05] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:05] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:05] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:05] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:05] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:05] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:05] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:05] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:05] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:05] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:06] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:06] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:09] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:09] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:10] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:10] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:10] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:11] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:11] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:11] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:11] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:11] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:11] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:11] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:11] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:11] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:11] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:44:11] Текст ошибки: Call to a member function prepare() on null |
+      файл: /var/www/App/Web/User/Models/Rubric/DBModel.php | Строка: 15 
+==================
+[2020-12-02 13:44:11] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 13:55:53] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 14:29:01] Текст ошибки: syntax error, unexpected '/', expecting '{' |
+      файл: /var/www/App/Web/User/Models/Category/CategoryNestedTree.php | Строка: 3 
+==================
+[2020-12-02 14:29:01] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 14:29:02] Текст ошибки: syntax error, unexpected '/', expecting '{' |
+      файл: /var/www/App/Web/User/Models/Category/CategoryNestedTree.php | Строка: 3 
+==================
+[2020-12-02 14:29:02] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 14:29:02] Текст ошибки: syntax error, unexpected '/', expecting '{' |
+      файл: /var/www/App/Web/User/Models/Category/CategoryNestedTree.php | Строка: 3 
+==================
+[2020-12-02 14:29:02] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 14:31:03] Текст ошибки: Call to undefined method App\Web\User\Models\Category\CategoryNestedTree::createNetedTree() |
+      файл: /var/www/App/Web/User/Models/Category/CategoryNestedTree.php | Строка: 13 
+==================
+[2020-12-02 14:31:03] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 14:31:04] Текст ошибки: Call to undefined method App\Web\User\Models\Category\CategoryNestedTree::createNetedTree() |
+      файл: /var/www/App/Web/User/Models/Category/CategoryNestedTree.php | Строка: 13 
+==================
+[2020-12-02 14:31:04] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 14:41:37] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 14:41:37] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 14:41:37] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 14:42:54] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 16:59:51] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 17:01:22] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 17:01:22] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 17:01:22] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-02 17:01:22] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-03 12:49:49] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-03 16:34:56] Текст ошибки: syntax error, unexpected ':' |
+      файл: /var/www/App/Web/User/Views/Pages/Category/index.php | Строка: 14 
+==================
+[2020-12-03 16:34:56] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-03 16:35:18] Текст ошибки: syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) |
+      файл: /var/www/App/Web/User/Views/Pages/Category/index.php | Строка: 15 
+==================
+[2020-12-03 16:35:18] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-03 16:38:23] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) |
+      файл: /var/www/App/Web/User/Views/Pages/Category/index.php | Строка: 16 
+==================
+[2020-12-03 16:38:23] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-03 16:38:24] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) |
+      файл: /var/www/App/Web/User/Views/Pages/Category/index.php | Строка: 16 
+==================
+[2020-12-03 16:38:24] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-03 16:38:24] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) |
+      файл: /var/www/App/Web/User/Views/Pages/Category/index.php | Строка: 16 
+==================
+[2020-12-03 16:38:24] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-03 16:38:24] Текст ошибки: syntax error, unexpected 'endif' (T_ENDIF) |
+      файл: /var/www/App/Web/User/Views/Pages/Category/index.php | Строка: 16 
+==================
+[2020-12-03 16:38:24] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2020-12-04 10:41:19] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================

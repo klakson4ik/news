@@ -29,3 +29,6 @@
 @import url("../../App/Web/User/Views/Pages/Curr/index.css");
 @import url("../../App/Web/User/Views/Pages/Curr/create.css");
 @import url("../../App/Web/User/Views/Pages/Curr/edit.css");
+
+		/* index style */
+@import url("../../App/Web/User/Views/Pages/Category/index.css");

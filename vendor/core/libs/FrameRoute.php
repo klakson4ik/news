@@ -8,7 +8,8 @@ class FrameRoute
 {
       public static function start()
       {
-			require '/var/www/config/init.php';
+			require_once '/var/www/config/init.php';
+			 
 			require LIBS . '/AutoLoadClasses.php';
 
 			AutoLoadClasses::load();
@@ -19,9 +20,9 @@ class FrameRoute
 			require ROUTES . '/user.php';
 			require ROUTES . '/admin.php';
 
-			
          new ErrorHandler();
 			Router::dispatch($uri);
+
 			if(TIMER == true)
 				echo Timer::finish() . ' сек.';
       }
