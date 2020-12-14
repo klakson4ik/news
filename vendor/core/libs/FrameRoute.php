@@ -8,23 +8,23 @@ class FrameRoute
 {
       public static function start()
       {
-			require '/var/www/config/init.php';
+			require_once '/var/www/config/init.php';
+			 
 			require LIBS . '/AutoLoadClasses.php';
 
 			AutoLoadClasses::load();
 
 			PHPSettings::set();
-			Timer::start();
 
          require HELPERS . '/Functions.php';
 			require ROUTES . '/user.php';
 			require ROUTES . '/admin.php';
 
-			
          new ErrorHandler();
 			Router::dispatch($uri);
 
-			echo Timer::finish() . ' сек.';
+			if(TIMER == true)
+				echo Timer::finish() . ' сек.';
       }
 }
 

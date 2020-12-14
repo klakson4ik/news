@@ -9,9 +9,9 @@ class ElementController
 			die('it is necessary to set the name of the new controller as the third parameter' . PHP_EOL);
 		$firstW = ucfirst($param[1]);
 		$secondW = ucfirst($param[2]);
-		$className = $firstW . $secondW;
 		if($firstW == 'Res')
 			$firstW = 'Resource';
+		$className = $firstW . $secondW;
 		$class = 'vendor\\core\\libs\\Console\\Element\\' .  $className;
 		if(class_exists($class)){
 			$method = lcfirst($firstW);

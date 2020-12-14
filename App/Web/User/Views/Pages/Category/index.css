@@ -1,0 +1,27 @@
+.header-category{
+		  display: flex;
+		  position: absolute;
+		  left: 0;
+		  bottom: 0;
+		  margin-bottom: 1rem;
+		  margin-left: 1rem;
+}
+
+.category-first-level-head{
+}
+
+
+.category-first-level-element{
+		  margin-right: 1rem;
+}
+.category-first-level-element:hover{
+		  color: red;
+}
+
+.category-second-level-head{
+		  display: none;
+}
+
+.category-other-level-head{
+		  display: none;
+}

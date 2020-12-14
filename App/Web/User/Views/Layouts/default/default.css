@@ -1,0 +1,25 @@
+.wrapper{
+	position: relative;
+	min-height: 100vh;
+}
+
+.wrapper-header{
+	width: 100%;
+	height: 10vh;
+}
+
+.wrapper-content{
+	padding: 1rem;
+	padding-bottom: 10vh;
+}
+
+.wrapper-footer{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	height: 10vh;
+	background: green;
+}
+
+

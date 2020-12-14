@@ -37,7 +37,7 @@ class View
          throw new \Exception("{$viewFile} вид не найден", 404);
       if(false !== $this->layout)
 		{
-         $layoutFile = constant($prefix) . LAYOUTS . "/{$this->layout}.php";
+         $layoutFile = constant($prefix) . LAYOUTS . "/{$this->layout}/{$this->layout}.php";
          if(is_file($layoutFile))
             require_once $layoutFile;
          else

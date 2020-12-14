@@ -1,0 +1,29 @@
+/*Other things*/
+
+/*styles*/
+@import url('styles/styles.css');
+
+/*libs*/
+@import url('libs/libs.css');
+
+/*Views*/
+
+	/*Layouts*/
+		
+		/*defualt*/
+@import url('../../App/Web/User/Views/Layouts/default/default.css');
+
+	/*Partials*/
+
+		/*default*/
+			
+			/*header*/
+@import url('../../App/Web/User/Views/Partials/default/header/header.css');
+
+			/*footer*/
+@import url('../../App/Web/User/Views/Partials/default/footer/footer.css');
+
+	/*Pages*/
+
+		/* index style */
+@import url("../../App/Web/User/Views/Pages/Category/index.css");

@@ -3,6 +3,7 @@
 define('PHPINI', 0);
 define('DEBUG', 1);
 define('LAYOUT', 'default');
+define('TIMER', 1);
 
 define('ROOT', dirname(__DIR__));
 define('APP', ROOT . '/App');
@@ -14,7 +15,7 @@ define('CONTROLLERS', '/Controllers');
 define('MODELS', '/Models');
 define('VIEWS',  '/Views');
 		  
-define('PARTIALS', VIEWS . '/partials');
+define('PARTIALS', VIEWS . '/Partials');
 define('PAGES', VIEWS . '/Pages');
 define('LAYOUTS', VIEWS . '/Layouts');
 
@@ -26,7 +27,7 @@ define('CONFIG', ROOT . '/config');
 define('HELPERS', LIBS . '/Helpers');
 define('ROUTES', ROOT . '/routes');
 
-define('RESOURCES', APP . '/resources');
+define('RESOURCES', './resources');
 define('CSS', RESOURCES . '/css');
 define('JS', RESOURCES . '/js');
 define('CSS_LIBS', CSS . '/libs');
