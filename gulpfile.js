@@ -1,6 +1,5 @@
  // подключаем gulp
 //const gulp = require ("gulp");
-
 // создадим две переменные, отвечающие за чтение исходных файлов (src) и запись сгенерированных файлов (dest).
 const {src, dest, watch, series} = require ("gulp");
 
@@ -12,30 +11,83 @@ const cssnano = require ("gulp-cssnano");
 const importCss = require ('gulp-import-css');
 const size = require('gulp-size');
 
+const concatJS = require('gulp-concat');
+const babel = require('gulp-babel');
+const terser = require('gulp-terser');
+
 let path = {
    build: {
-   	css: "public/css/"
+   	css: "public/css/",
+		  js: "public/js/"
 	},
 	src: {
-  		css: "resources/css/app.css"
+  		css: "resources/css/",
+		  js: "resources/js/"
 	},
 	import: {
 		css: "resources/css/import.css"
 	}
 }
 
-function css(){	
+let JSFiles = [
+		  "resources/js/libs/*.js",
+		  "resources/ls/scripts/*.js",
+		  "App/Web/User/Views/Layouts/**/*.js",
+		  "App/Web/User/Views/Pages/**/*.js",
+		  "App/Web/User/Views/Partials/**/*.js"
+]
+ 
+let CSSFiles = [
+      "./resources/css/styles/**/*.css",
+      "./App/Web/User/Views/Layouts/**/*.css",
+      "./App/Web/User/Views/Partials/**/*.css",
+      "./App/Web/User/Views/Pages/**/*.css"
+    ]
+
+const js = () => {
+		  return (src(JSFiles))
+		  .pipe(concatJS("concat.js"))
+		  .pipe(dest(path.src.js))
+		  .pipe(babel({
+            presets: ['@babel/env']
+        }))
+		.pipe(rename({
+		  basename: "babel",
+			extname: ".js"
+		}))
+		  .pipe(dest(path.src.js))
+		.pipe(rename({
+		  basename: "app",
+			suffix: ".min",
+			extname: ".js"
+		}))
+		  .pipe(terser())
+		  .pipe(dest(path.build.js))
+		.pipe(size({
+			showFiles: true,
+			showTotal: false
+		}))
+
+}
+const css = () => {	
 	return src(path.import.css)
 		.pipe(importCss())
 		.pipe(rename({
 			basename: "app",
 			extname: ".css",
 
-		}))  
+		}))
+		  .pipe(dest(path.src.css))
 		.pipe(autoprefixer({    
 			Browserslist: ['last 8 versions'],
          cascade: true
    	}))
+		.pipe(rename({
+			basename: "prefix",
+			extname: ".css",
+
+		}))
+		  .pipe(dest(path.src.css))
 		.pipe(cssnano({
 			zindex: false,
 			discardComments: {
@@ -44,6 +96,7 @@ function css(){
 		}))
 		.pipe(removeComments())
 		.pipe(rename({
+		  basename: "app",
 			suffix: ".min",
 			extname: ".css"
 		}))
@@ -54,36 +107,16 @@ function css(){
 		}))
 
 }
+// Watch
+const watcher = () => {
+  watch(CSSFiles, css);
+  watch(JSFiles, js);
+};
 
+// Default
 
-// Watch files
-function watchFiles() {
-//	return watch("./resources/css/styles/**/*", css);
-//gulp.watch("./assets/js/**/*", gulp.series(scriptsLint, scripts));
-  return watch(
-    [
-      "./resources/css/styles/**/*.css",
-      "./App/Web/User/Views/Layouts/**/*.css",
-      "./App/Web/User/Views/Partials/**/*.css",
-      "./App/Web/User/Views/Pages/**/*.css"
-    ],
-    css
-  );
-//gulp.watch("./assets/img/**/*", images);
-}
+exports.default = watcher
 
-// define complex tasks
-//const js = gulp.series(scriptsLint, scripts);
-//const build = gulp.series(clean, gulp.parallel(css, images, jekyll, js));
-//const watch = gulp.parallel(watchFiles, browserSync);
-//const watcher = watchFiles;
-
-// export tasks
-//exports.images = images;
+exports.watch = watcher;
+exports.js = js;
 exports.css = css;
-//exports.js = js;
-//exports.jekyll = jekyll;
-//exports.clean = clean;
-//exports.build = build;
-//exports.watch = watch;
-exports.default = watchFiles;
