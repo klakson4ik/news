@@ -153,6 +153,14 @@ select {
 
 
 
+.category-second-level-head {
+  display: none;
+}
+
+.category-other-level-head {
+  display: none;
+}
+
 .category-first-level-element {
   margin-right: 1rem;
 }
@@ -161,10 +169,18 @@ select {
   color: red;
 }
 
-.category-second-level-head {
-  display: none;
+.category-second-level-element {
+  margin-right: 1rem;
 }
 
-.category-other-level-head {
-  display: none;
+.category-second-level-element:hover {
+  color: red;
+}
+
+.category-other-level-element {
+  margin-right: 1rem;
+}
+
+.category-first-level-element:hover {
+  color: red;
 }

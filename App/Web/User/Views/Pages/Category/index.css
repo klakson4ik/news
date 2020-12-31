@@ -8,6 +8,14 @@
 }
 
 .category-first-level-head{
+
+}
+.category-second-level-head{
+		  display: none;
+}
+
+.category-other-level-head{
+		  display: none;
 }
 
 
@@ -18,10 +26,16 @@
 		  color: red;
 }
 
-.category-second-level-head{
-		  display: none;
+.category-second-level-element{
+		  margin-right: 1rem;
+}
+.category-second-level-element:hover{
+		  color: red;
 }
 
-.category-other-level-head{
-		  display: none;
+.category-other-level-element{
+		  margin-right: 1rem;
+}
+.category-first-level-element:hover{
+		  color: red;
 }

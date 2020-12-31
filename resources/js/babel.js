@@ -16,13 +16,19 @@ var jsLib = /*#__PURE__*/function () {
   function jsLib(selector) {
     _classCallCheck(this, jsLib);
 
-    this.collection = document.getElementsByClassName(selector);
+    var value = document.getElementsByClassName(selector);
+
+    if (value.length > 1) {
+      this.collection = value; //            this.is_one = false;
+    } else {
+      this.collection = selector; //            this.is_one = true;
+    }
   }
 
   _createClass(jsLib, [{
     key: "html",
     value: function html(htmlContent) {
-      var _iterator = _createForOfIteratorHelper(this.container),
+      var _iterator = _createForOfIteratorHelper(this.collection),
           _step;
 
       try {
@@ -42,11 +48,11 @@ var jsLib = /*#__PURE__*/function () {
     key: "text",
     value: function text(textContent) {
       if (textContent === undefined) {
-        var el = Array.from(this.container)[0];
+        var el = Array.from(this.collection)[0];
         return el.textContent;
       }
 
-      var _iterator2 = _createForOfIteratorHelper(this.container),
+      var _iterator2 = _createForOfIteratorHelper(this.collection),
           _step2;
 
       try {
@@ -65,22 +71,30 @@ var jsLib = /*#__PURE__*/function () {
   }, {
     key: "on",
     value: function on(name, handler) {
-      var _iterator3 = _createForOfIteratorHelper(this.container),
+      //        if(this.is_one)
+      //           this.collection.addEventListener(name, handler)
+      //        else{
+      var _iterator3 = _createForOfIteratorHelper(this.collection),
           _step3;
 
       try {
         for (_iterator3.s(); !(_step3 = _iterator3.n()).done;) {
-          var el = _step3.value;
-          el.addEventListener(name, function (e) {
-            return handler(e);
-          });
-        }
+          var element = _step3.value;
+          element.addEventListener(name, handler);
+        } //      }
+
       } catch (err) {
         _iterator3.e(err);
       } finally {
         _iterator3.f();
       }
 
+      return this;
+    }
+  }, {
+    key: "child",
+    value: function child(selector) {
+      this.collection = this.collection.getElementsByClassName(selector);
       return this;
     } //	attr(name, value) {
     //		if (value === undefined) {
@@ -109,7 +123,7 @@ var jsLib = /*#__PURE__*/function () {
   }, {
     key: "addClass",
     value: function addClass(className) {
-      var _iterator4 = _createForOfIteratorHelper(this.container),
+      var _iterator4 = _createForOfIteratorHelper(this.collection),
           _step4;
 
       try {
@@ -144,14 +158,17 @@ var jsLib = /*#__PURE__*/function () {
       //			const el = Array.from(this.container)[0];
       //			return el.style[propertyName];
       //		} else {
-      var _iterator5 = _createForOfIteratorHelper(this.container),
+      //        if(this.is_one){
+      //			this.collection.style[propertyName] = value;
+      //       }else{
+      var _iterator5 = _createForOfIteratorHelper(this.collection),
           _step5;
 
       try {
         for (_iterator5.s(); !(_step5 = _iterator5.n()).done;) {
-          var el = _step5.value;
-          el.style[propertyName] = value;
-        } //		}
+          var element = _step5.value;
+          element.style[propertyName] = value;
+        } //        }
         //
 
       } catch (err) {
@@ -183,3 +200,14 @@ var jsLib = /*#__PURE__*/function () {
 var $ = function $(selector) {
   return new jsLib(selector);
 };
+
+$("category-first-level-head").on("mouseover", function (e) {
+  var childHead = $(e.currentTarget).child("category-second-level-head");
+
+  if (childHead !== undefined) {
+    childHead.css("display", "block");
+    childHead.on("mouseover", function (l) {
+      console.log(l);
+    }); //     console.log($(e.currentTarget).child("category-second-level-element"))
+  }
+});

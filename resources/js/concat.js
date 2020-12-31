@@ -3,11 +3,18 @@ class jsLib {
 
     constructor(selector)
     {   
-       this.collection = document.getElementsByClassName(selector);
-	}
+        let value = document.getElementsByClassName(selector);
+        if(value.length > 1){
+            this.collection = value;
+//            this.is_one = false;
+		}else{
+			this.collection = selector;
+//            this.is_one = true;
+		}
+    }
 
 	html(htmlContent) {
-		for (const el of this.container) {
+        for (const el of this.collection) {
 			el.innerHTML = htmlContent;
 		}
 
@@ -16,11 +23,11 @@ class jsLib {
 
 	text(textContent) {
 		if (textContent === undefined) {
-			const el = Array.from(this.container)[0];
+			const el = Array.from(this.collection)[0];
 			return el.textContent;
 		}
 
-		for (const el of this.container) {
+		for (const el of this.collection) {
 			el.textContent = textContent;
 		}
 
@@ -28,12 +35,21 @@ class jsLib {
 	}
 
 	on(name, handler) {
-		for (const el of this.container) {
-			el.addEventListener(name, (e) => handler(e));
-		}
+//        if(this.is_one)
+ //           this.collection.addEventListener(name, handler)
+//        else{
+		    for (const element of this.collection) {
+			    element.addEventListener(name, handler);
+		    }
+  //      }
 
 		return this;
 	}
+
+    child(selector){
+        this.collection = this.collection.getElementsByClassName(selector)
+        return this
+    }
 
 //	attr(name, value) {
 //		if (value === undefined) {
@@ -63,7 +79,7 @@ class jsLib {
 //	}
 
 	addClass(className) {
-		for (const el of this.container) {
+		for (const el of this.collection) {
 			el.classList.add(className);
 		}
 
@@ -89,10 +105,13 @@ class jsLib {
 //			const el = Array.from(this.container)[0];
 //			return el.style[propertyName];
 //		} else {
-			for (const el of this.container) {
-				el.style[propertyName] = value;
+//        if(this.is_one){
+//			this.collection.style[propertyName] = value;
+//       }else{
+			for (const element of this.collection) {
+				element.style[propertyName] = value;
 			}
-//		}
+//        }
 //
 		return this;
 	}
@@ -113,3 +132,22 @@ class jsLib {
 }
 const $ = (selector) => new jsLib(selector);
 
+function recursiveCategories(node){
+    let childHead = $(e.currentTarget).child("category-second-level-head")
+    if(childHead !== undefined){
+        childHead.css("display", "block")
+        childHead.on("mouseover", (l) => {
+            console.log(l)
+        })
+}
+
+$("category-first-level-head").on("mouseover", (e) => { 
+    let childHead = $(e.currentTarget).child("category-second-level-head")
+    if(childHead !== undefined){
+        childHead.css("display", "block")
+        childHead.on("mouseover", (l) => {
+            console.log(l)
+        })
+   //     console.log($(e.currentTarget).child("category-second-level-element"))
+    }
+})

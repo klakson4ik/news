@@ -22,5 +22,6 @@
 		<?php require_once USER . PARTIALS . '/default/footer/footer.php' ;?>	
 	</footer>
 
+<script src="js/app.min.js"></script>
 </body>
 </html>
