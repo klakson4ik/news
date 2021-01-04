@@ -201,13 +201,64 @@ var $ = function $(selector) {
   return new jsLib(selector);
 };
 
-$("category-first-level-head").on("mouseover", function (e) {
-  var childHead = $(e.currentTarget).child("category-second-level-head");
+var Category = /*#__PURE__*/function () {
+  function Category() {
+    _classCallCheck(this, Category);
 
-  if (childHead !== undefined) {
-    childHead.css("display", "block");
-    childHead.on("mouseover", function (l) {
-      console.log(l);
-    }); //     console.log($(e.currentTarget).child("category-second-level-element"))
+    this.rootNode = $("category-first-level-head");
+    this.layers = ["second", "other"];
+    this.count = 0;
   }
-});
+
+  _createClass(Category, [{
+    key: "activation",
+    value: function activation() {
+      var _this = this;
+
+      var node = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : this.rootNode;
+      var layer = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 0;
+      console.log("hell");
+      node.on("mouseover", function (e) {
+        var childnode = $(e.currenttarget).child("category-" + _this.layers[layer] + "-level-head");
+
+        if (childnode !== undefined) {
+          childnode.css("display", "block");
+
+          _this.activation(childnode, ++_this.count);
+        }
+      });
+      node.on("mouseout", function (e) {
+        var childnode = $(e.currenttarget).child("category-" + _this.layers[layer] + "-level-head");
+
+        if (childnode !== undefined) {
+          childnode.css("display", "none");
+
+          _this.activation(childnode, --_this.count);
+        }
+      });
+    } //function recursiveCategories(node){
+    //    let childHead = $(e.currentTarget).child("category-second-level-head")
+    //    if(childHead !== undefined){
+    //        childHead.css("display", "block")
+    //        childHead.on("mouseover", (l) => {
+    //            console.log(l)
+    //        })
+    //    }
+
+  }]);
+
+  return Category;
+}(); //$("category-first-level-head").on("mouseover", (e) => { 
+//    let childHead = $(e.currentTarget).child("category-second-level-head")
+//    if(childHead !== undefined){
+//        childHead.css("display", "block")
+//        childHead.on("mouseover", (l) => {
+//            console.log(l)
+//        })
+//     console.log($(e.currentTarget).child("category-second-level-element"))
+//   }
+//
+
+
+var category = new Category();
+category.activation();

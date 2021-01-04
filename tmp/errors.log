@@ -3800,3 +3800,399 @@
 [2020-12-31 10:28:35] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
       файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
 ==================
+[2021-01-04 09:28:12] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 10:28:35] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 10:45:41] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 10:45:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 10:45:50] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 10:45:51] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 10:46:54] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 10:46:54] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 10:46:54] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 10:46:54] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 10:47:08] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 10:47:08] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 10:48:26] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 10:48:26] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 10:56:19] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 10:56:28] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 10:56:28] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 10:56:28] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 10:56:28] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:01:19] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:01:19] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:01:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:01:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:01:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:01:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:01:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:01:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:01:48] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:06:32] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:06:33] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:06:33] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:06:33] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:06:33] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:06:40] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:06:41] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:06:41] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:06:41] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:06:55] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:06:55] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:06:55] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:06:55] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:06:56] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:06:56] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:06:56] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:06:56] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:15:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:15:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:15:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:15:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:15:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:15:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:15:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:15:21] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:17:05] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:17:05] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:17:05] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:17:06] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:17:06] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:17:06] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:23:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:23:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:23:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:23:21] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:23:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:23:21] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:23:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:23:21] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:23:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:23:21] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:23:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:23:21] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:23:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:23:21] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:23:29] Текст ошибки: Введенный адрес /home не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:23:29] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:29:33] Текст ошибки: Введенный адрес /home не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:29:33] Текст ошибки: Введенный адрес /public/css/development.css не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:29:33] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:29:50] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:29:50] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:31:45] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:31:45] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:31:46] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:31:46] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:31:46] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:31:46] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:31:46] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:31:46] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:31:52] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:31:53] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:32:36] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:32:36] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:32:36] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:32:36] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:32:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:32:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:32:44] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:32:44] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:32:56] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:32:56] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:32:56] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:32:56] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:33:02] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:33:02] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:33:02] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:33:02] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:33:20] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:33:20] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:33:21] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:33:21] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:33:32] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:33:33] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:33:33] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:33:33] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:33:33] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:33:33] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:33:38] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:33:39] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:39:25] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'news.categories' doesn't exist |
+      файл: /var/www/App/Web/User/Models/Category/DBModel.php | Строка: 14 
+==================
+[2021-01-04 11:54:38] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:54:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:54:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:54:42] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:54:43] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:57:31] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:57:49] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:57:50] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:57:50] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 11:59:07] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 12:01:50] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 12:02:59] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================
+[2021-01-04 12:17:34] Текст ошибки: Введенный адрес /favicon.ico не совпадает с шаблоном |
+      файл: /var/www/vendor/core/libs/Router.php | Строка: 67 
+==================

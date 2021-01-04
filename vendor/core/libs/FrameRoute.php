@@ -14,13 +14,13 @@ class FrameRoute
 
 			AutoLoadClasses::load();
 
-			PHPSettings::set();
+            PHPSettings::set();
 
-         require HELPERS . '/Functions.php';
+            require HELPERS . '/Functions.php';
 			require ROUTES . '/user.php';
 			require ROUTES . '/admin.php';
 
-         new ErrorHandler();
+            new ErrorHandler();
 			Router::dispatch($uri);
 
 			if(TIMER == true)
